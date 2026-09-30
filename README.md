@@ -9,3 +9,13 @@ This project demonstrates the basic workflow of Git,
 
 branches, and GitHub.
 
+## Topics
+
+\- Git repositories
+
+\- Branches
+
+\- Remote repositories
+
+\- GitHub
+
